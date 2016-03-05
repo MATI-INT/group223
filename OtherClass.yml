@@ -1,0 +1,2 @@
+some_info: 'The value is {{value}} and initial number is {{data}}'
+some_other_info: 'Now the value is {{value}}'
